@@ -1,5 +1,5 @@
 {
-    "name": "Vasily007/composer-parcer",
+    "name": "vasily007/composer-parcer",
     "description": "This package will allow you to parce any site you want",
     "type": "library",
     "require": {
