@@ -1,5 +1,5 @@
 {
-    "name": "simon/composer-simple-parcer",
+    "name": "Vasily007/composer-parcer",
     "description": "This package will allow you to parce any site you want",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "BSD-3-Clause",
     "authors": [
         {
-            "name": "Simon",
+            "name": "simon",
             "email": "simonk8179@mail.ru"
         }
     ],
